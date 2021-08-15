@@ -12,7 +12,7 @@
 body {
   margin: 5%;
   padding: 0;
-  background-color: var(--transparent-white);
+  background-color: var(--very-light-gray);
 }
 
 .container {
